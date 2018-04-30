@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="button">Button</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="darksky">powered\n by DarkSky</string>
+    <string name="weather_location">weather for \n  %$1s</string>
+        <string name="GoogleGeoApi"</string>
+<string name="GoogleApiKey"</string>
+<string name="GoogeRetrofit"</string>
+
+
+
+
+
+
+
+
+
+
+
+    private GoogleGeoApi mGoogleGeoApi;
+    private String mGoogleBaseUrl;
+    private String mFoogleApiKey;
+    private Retrofit mGoogleRetrofit;
+    private DarkSkyApi mDarkSkyApi;
+    private String mDarkSytBaseUrl;
+    private String mDarkSkyApiKey;
+    private Retrofit mDarkSkyRetrofit;
+
+</resources>
